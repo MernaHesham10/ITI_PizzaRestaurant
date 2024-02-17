@@ -2975,7 +2975,7 @@ p.sub-heading {
 
 .sidebar-page-container {
   position: relative;
-  padding: 120px 0px;
+  padding: 120px 125px 0px 125px;
 }
 
 .seller_details-content {
@@ -2985,7 +2985,7 @@ p.sub-heading {
 
 .seller_details-content .seller-seller {
   position: relative;
-  padding: 52px 40px 70px 40px;
+  padding: 52px 40px 30px 40px;
 }
 
 .sidebar-page-container .seller-block-two .inner-box .content-box {
