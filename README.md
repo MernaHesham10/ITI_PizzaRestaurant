@@ -7,5 +7,5 @@
 - Users can view our chef's members.
 
 ### Website Demo
-[ITI_Pizza_Resturant](https://raw.githack.com/MernaHesham10/ITI_PizzaRestaurant/index.html)
+[ITI_PizzaResturant](https://raw.githack.com/MernaHesham10/ITI_PizzaRestaurant/index.html)
 
