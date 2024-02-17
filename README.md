@@ -1,13 +1,12 @@
-# Pizza-Resturant
-- this is project using HTML, CSS, and Javascript.
-- User can view menu and select any seller and order it.
-- User can view our seller, and add commend.
-- User can book table in our resturant.
-- User can contact us by sending message, or any other way.
-- User can view our chefs member.
+# ITI_PizzaRestaurant
+- this is a project using HTML, CSS, and Javascript.
+- Users can view the menu select any seller and order it.
+- Users can view our seller, and add commend.
+- Users can book a table in our restaurant.
+- User can contact us by sending the message, or any other way.
+- Users can view our chef's members.
 
 ### Website Demo
-[Pizza-Resturant](https://raw.githack.com/MernaHesham10/Pizza-Resturant/main/index.html)
-# ITI_PizzaRestaurant
-# ITI_PizzaRestaurant
-# ITI_PizzaRestaurant
+[ITI_PizzaRestaurant](https://raw.githack.com/MernaHesham10/ITI_PizzaRestaurant/42817184e23b6aa73754f5e2169a307617b6bdde/index.html)
+
+
