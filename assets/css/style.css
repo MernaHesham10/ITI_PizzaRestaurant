@@ -1514,7 +1514,8 @@ div#mCSB_1_container {
 .book-section .form-inner form .form-group input[type='text'],
 .book-section .form-inner form .form-group input[type='email'],
 .book-section .form-inner form .form-group input[type='date'],
-.book-section .form-inner form .form-group input[type='number'] {
+.book-section .form-inner form .form-group input[type='number'],
+.book-section .form-inner form .form-group input[type='tel'] {
 
   position: relative;
   display: block;
