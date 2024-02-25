@@ -105,22 +105,22 @@
                                 <table class="book_table">    
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
-                                            <input type="text" name="username" placeholder="Your Name" required>
+                                            <input type="text" name="username" placeholder="Your Name" required autocomplete="given-name"/>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
-                                            <input type="email" name="email" placeholder="Your Email *" required>
+                                            <input type="email" name="email" placeholder="Your Email *" required autocomplete="email"/>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
-                                            <input type="number" name="phone" placeholder="Your Phone Number" required>
+                                            <input type="number" name="phone" placeholder="Your Phone Number" required max="11" autocomplete="tel"/>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
-                                            <input type="text" name="address" placeholder="Your Address" required>
+                                            <input type="text" name="address" placeholder="Your Address" required autocomplete="address-level1"/>
                                         </td>
                                     </tr>
                                     <tr class="design-6l design-12m design-12sm form-group">
@@ -130,12 +130,12 @@
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td>
-                                            <input type="radio" id="classic_hand_tossed" name="order_details">
-                                            <label style="padding: 0px 20px 0px 10px; font-size: 18px;">Classic Hand Tossed</label>
+                                            <input type="radio" id="classic_hand_tossed" name="crust_details"/>
+                                            <label for="classic_hand_tossed" style="padding: 0px 20px 0px 10px; font-size: 18px;">Classic Hand Tossed</label>
                                         </td>
                                         <td>
-                                            <input type="radio" id="wheat_thin_crust" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Wheat Thin Crust</label>
+                                            <input type="radio" id="wheat_thin_crust" name="crust_details"/>
+                                            <label for="wheat_thin_crust" style="padding: 0px 6px 0px 10px; font-size: 18px;">Wheat Thin Crust</label>
                                         </td>
                                     </tr>
                                     <tr class="design-6l design-12m design-12sm form-group">
@@ -145,17 +145,17 @@
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td>
-                                            <input type="radio" id="crust_large" name="order_details"> 
-                                            <label style="padding: 0px 20px 0px 10px; font-size: 18px;">Large</label>                                        </td>
+                                            <input type="radio" id="crust_large" name="size_details"/> 
+                                            <label for="crust_large"  style="padding: 0px 20px 0px 10px; font-size: 18px;">Large</label>                                        </td>
                                         <td>
-                                            <input type="radio" id="crust_medium" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Medium</label>
+                                            <input type="radio" id="crust_medium" name="size_details"/>
+                                            <label for="crust_medium"  style="padding: 0px 6px 0px 10px; font-size: 18px;">Medium</label>
                                         </td>
                                     </tr>
                                     <tr class="design-6l design-12m design-12sm form-group">
                                         <td>
-                                            <input type="radio" id="crust_small" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Small</label>
+                                            <input type="radio" id="crust_small" name="size_details"/>
+                                            <label for="crust_small"  style="padding: 0px 6px 0px 10px; font-size: 18px;">Small</label>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
@@ -165,21 +165,21 @@
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td>
-                                            <input type="radio" id="extra_mushrooms" name="order_details"> 
-                                            <label style="padding: 0px 20px 0px 10px; font-size: 18px;">Mushrooms</label>                                        </td>
+                                            <input type="radio" id="extra_mushrooms" name="extra_details"/> 
+                                            <label  for="extra_mushrooms" style="padding: 0px 20px 0px 10px; font-size: 18px;">Mushrooms</label>                                        </td>
                                         <td>
-                                            <input type="radio" id="extra_onions" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Onions</label>
+                                            <input type="radio" id="extra_onions" name="extra_details"/>
+                                            <label for="extra_onions"  style="padding: 0px 6px 0px 10px; font-size: 18px;">Onions</label>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td>
-                                            <input type="radio" id="extra_celery" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Celery</label>
+                                            <input type="radio" id="extra_celery" name="extra_details"/>
+                                            <label for="extra_celery"  style="padding: 0px 6px 0px 10px; font-size: 18px;">Celery</label>
                                         </td>
                                         <td>
-                                            <input type="radio" id="extra_peas" name="order_details">
-                                            <label style="padding: 0px 6px 0px 10px; font-size: 18px;">Peas</label>
+                                            <input type="radio" id="extra_peas" name="extra_details"/>
+                                            <label for="extra_peas" style="padding: 0px 6px 0px 10px; font-size: 18px;">Peas</label>
                                         </td>
                                     </tr>
 
@@ -191,7 +191,7 @@
                                     <tr class="design-12l design-12m design-12sm form-group">
 
                                         <td colspan="2">
-                                            <textarea></textarea>
+                                            <textarea name="any_extra_msg"></textarea>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
