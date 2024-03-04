@@ -101,7 +101,7 @@
                                 <span class="sub-title" style="text-align: center;">Order Details</span>
                             </div>
 
-                            <form method="post" action="#" id="contact-form" class="default-form">
+                            <form method="#" action="#" id="contact-form" class="default-form">
                                 <table class="book_table">    
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
@@ -114,10 +114,11 @@
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
-                                        <td colspan="2">
-                                            <input type="tel" name="phone" placeholder="Your Phone Number *" required pattern="[0-9]{11}" autocomplete="tel"/>
+                                        <td colspan="2">                    
+                                            <input type="text" name="phone" placeholder="Your Phone Number *" required pattern="[0-9]{11}" minlength="11" maxlength="11" autocomplete="tel"/>
                                         </td>
                                     </tr>
+                                    
                                     <tr class="design-12l design-12m design-12sm form-group">
                                         <td colspan="2">
                                             <input type="text" name="address" placeholder="Your Address *" required autocomplete="address-level1"/>
@@ -191,7 +192,7 @@
                                     <tr class="design-12l design-12m design-12sm form-group">
 
                                         <td colspan="2">
-                                            <textarea name="any_extra_msg"></textarea>
+                                            <textarea name="any_extra_msg" placeholder="Enter Any Extra Message"></textarea>
                                         </td>
                                     </tr>
                                     <tr class="design-12l design-12m design-12sm form-group">
