@@ -20,11 +20,15 @@ Follow us on social media for the latest updates, special offers, and mouthwater
 At Pizza Pazza, we're committed to delivering quality, flavor, and satisfaction with every bite. Whether you're dining in, ordering out, or catering an event, you can trust us to provide the ultimate pizza experience.
 
 📍 Visit Us:
-Stop by our cozy pizzeria for a dine-in experience like no other. Our friendly staff awaits to serve you with a smile and a slice of pizza perfection.
+Stop by our cozy pizzeria for a dine-in experience like no other. 
+Our friendly staff awaits to serve you with a smile and a slice of pizza perfection.
 Indulge in pizza paradise with Pizza Pazza - where every bite is a slice of happiness! 🍕✨
 
 
 ### Website Demo
 [ITI_PizzaRestaurant](https://github.com/MernaHesham10/ITI_PizzaRestaurant/blob/main/Demo/Demo.mp4)
+
+### Thanks to my contributor [@Salma Yasser]([link to their profile/website](https://github.com/SalmaYasser3110)).
+
 
 
