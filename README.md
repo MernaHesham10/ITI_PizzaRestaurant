@@ -26,7 +26,8 @@ Indulge in pizza paradise with Pizza Pazza - where every bite is a slice of happ
 
 
 ### Website Demo
-[ITI_PizzaRestaurant](https://github.com/MernaHesham10/ITI_PizzaRestaurant/blob/main/Demo/Demo.mp4)
+[<img src="(https://github.com/MernaHesham10/ITI_PizzaRestaurant/assets/87778784/66f097ac-53aa-48c2-bce0-be5b93c1aadc)
+" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 ### Thanks to my colleage
 ✨ [Salma Yasser](https://github.com/SalmaYasser3110)
