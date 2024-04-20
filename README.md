@@ -29,7 +29,7 @@ Indulge in pizza paradise with Pizza Pazza - where every bite is a slice of happ
 [ITI_PizzaRestaurant](https://github.com/MernaHesham10/ITI_PizzaRestaurant/blob/main/Demo/Demo.mp4)
 
 ### Thanks to my colleage
-[Salma Yasser](https://github.com/SalmaYasser3110)
+✨ [Salma Yasser](https://github.com/SalmaYasser3110)
 
 
 
