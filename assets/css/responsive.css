@@ -200,6 +200,12 @@
         visibility: hidden;
         opacity: 0;
     }
+
+    .menu_details .inner-box, .chefs_details .inner-box {
+        padding-left: 470px;
+    }
+
+    
 }
 
 @media only screen and (max-width: 991px) {
@@ -271,6 +277,25 @@
 
 
 @media only screen and (max-width: 767px) {
+    .page-title .outer-container .bg-layer-main:before {
+        height: 150%;
+    }
+    
+    #main-body .outer-container .large-container .Header {
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        font-size: 15px;
+    }
+
+    .menu_details .inner-box, .chefs_details .inner-box {
+        padding-left: 190px;
+    }
+
+    .menu_details .inner-box .content-box h2 {
+        word-spacing: 10px;
+        letter-spacing: 2px;
+        font-size: 18px;
+    }
 
     .banner-carousel .content-box h2 {
         font-size: 40px;
@@ -280,7 +305,6 @@
     .banner-carousel .slide-seller {
         padding: 120px 0px;
     }
-
 
     .sec-title h2 {
         font-size: 36px;
@@ -468,6 +492,16 @@
     .about-style-three .image-box .image {
         width: 100%;
     }
+
+    #main-body .outer-container .large-container .Header {
+        letter-spacing: 2px;
+        word-spacing: 4px;
+        font-size: 14px;
+    }
+
+    .menu_details .inner-box, .chefs_details .inner-box {
+        padding-left: 160px;
+    }
 }
 
 
@@ -482,5 +516,32 @@
 
     .mobile-project {
         width: 100%;
+    }
+
+    .menu_details .inner-box .content-box {
+        position: relative;
+        display: block;
+        padding: 20px 60px 54px 40px;
+    }
+
+    #main-body .outer-container .large-container .Header {
+        letter-spacing: 2px;
+        word-spacing: 3px;
+        font-size: 12px;
+    }
+
+    .menu_details .inner-box .content-box h2 {
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+    .menu_details .inner-box, .chefs_details .inner-box {
+        padding-left: 106px;
+    }
+
+    .header-style-two .header-lower {
+        padding-top: 0px;
+        background: transparent;
+        padding-left: 0px;
     }
 }
